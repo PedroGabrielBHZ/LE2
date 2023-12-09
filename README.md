@@ -26,7 +26,7 @@ Este projeto requer as seguintes bibliotecas Python:
 
 ## Autor
 
-Pedro G. A. Santos
+Pedro G. A. Soares
 
 ## Licença
 
